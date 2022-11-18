@@ -2,6 +2,6 @@
 <item>
 	<version>2.0.0.0</version>
 	<url>https://github.com/bnheinvoice/toolconvert/raw/main/demo/update%20demo.zip</url>
-	<changelog>https://laptrinhvb.net</changelog>
+	<changelog>demo auto update</changelog>
 	<mandatory>false</mandatory>
 </item>
