@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <item>
-	<version>10.9.9.999999999</version>
-	<url>https://github.com/bnheinvoice/toolconvert/raw/main/demo/update%20demo.zip</url>
+	<version>2.0.0.0</version>
+	<url>https://github.com/bnheinvoice/toolconvert/raw/main/demo/tool%20convert%20update%20files.zip</url>
 	<changelog>ngay phien ban moi</changelog>
 	<mandatory>false</mandatory>
 </item>
